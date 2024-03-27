@@ -20,7 +20,7 @@ function LayoutRoutes() {
 
         <Routes>
             <Route path = '/' element={<Home/>} />
-            <Route path = '/edutech-react-website' element={<Home/>} />
+            <Route path = '/online-education-react-web' element={<Home/>} />
             <Route path = '/services' element={<Plans/>} />
             <Route path = '/courses' element={<Courses/>} />
             <Route path = '/about' element={<AboutUs/>} />
