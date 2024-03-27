@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 function Header() {
 
     const nav_titles = [{
-        path:'/', display:'Home'
+        path:'/home', display:'Home'
     },
     {
         path:'/services', display:'Services'

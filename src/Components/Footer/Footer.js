@@ -34,7 +34,7 @@ function Footer() {
                 <Link to='/services' onClick={handleClick}> Our plan</Link>
               </li>
               <li>
-                <a href="">Become a member</a>
+                <li>Become a member</li>
               </li>
             </ul>
           </div>
