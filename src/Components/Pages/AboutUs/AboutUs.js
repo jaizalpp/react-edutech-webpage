@@ -9,7 +9,7 @@ function AboutUs() {
             <div className="team-members">
                 <h2>Our Team</h2>
                 <div className="member-card">
-                    <img className='member-image' src={miya} alt="miya image" />
+                    <img className='member-image' src={miya} alt="miyaimage" />
                     <h3 className="member-name">Miya Helinks</h3>
                     <p className="member-role">Co-Founder</p>
                 </div>
