@@ -22,8 +22,8 @@ function LayoutRoutes() {
 
 
           
-            <Route path='/' element={<Home/>}/>
-            <Route path='/react-edutech-webpage' element={<Home/>}/>
+            <Route path ='/Home' element={<Home/>}/>
+            <Route path ='/react-edutech-webpage' element={<Home/>}/>
             <Route path = '/services' element={<Plans/>} />
             <Route path = '/courses' element={<Courses/>} />
             <Route path = '/about' element={<AboutUs/>} />
