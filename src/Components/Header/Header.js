@@ -7,7 +7,7 @@ function Header() {
 
     const nav_titles = [
     {
-        path:'/home', display:'Home'
+        path:'/', display:'Home'
     },
     {
         path:'/services', display:'Services'
